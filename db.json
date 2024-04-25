@@ -1,6 +1,6 @@
 {
   "users":  [
-      {"id" : 1 , "name" : "agbalou", "email": "mounaimhmamed@gmail.com"},
+      {"id" : 1 , "name" : "sat", "email": "mounaimhmamed@gmail.com"},
       {"id" : 2 , "name" : "me", "email": "mounaimhmamed@gmail.com"},
       {"id" : 3 , "name" : "her", "email": "mounaimhmamed@gmail.com"}
   ]
